@@ -16,7 +16,7 @@
 
 ---
 
-# 🎀 Angularsockets
+# MS BAILEYS-X 
 
 > **Ms-baileys** a mod og *Baileys WhatsApp Web API* by **Dev Messy** 
 ---
